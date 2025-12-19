@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Secret Pure Love 耳コピ",
+  "base_artist": "あ",
+  "createdAt": "2025-12-19T18:25:15.819518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret Pure Love",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/01_Secret_Pure_Love_i☆Ris.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Secret Pure Love",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/02_Secret_Pure_Love_i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Secret Pure Love (Instrumental)",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/03_Secret_Pure_Love_(Instrumental)_i☆Ris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secret Pure Love",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/pl_01_Secret_Pure_Love_i☆Ris.txt"
+    }
+  ]
+}
